@@ -22,4 +22,4 @@ This was commemorated
 By some words Mel wrote in Slack 🎵
 ```
 
-Credit to @mchua.
+Credit to [@mchua](https://github.com/mchua).
